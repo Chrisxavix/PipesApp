@@ -12,7 +12,7 @@ import { PanelModule } from 'primeng/panel';
     MenubarModule,
     CardModule,
     FieldsetModule,
-    PanelModule
+    PanelModule,
   ]
 })
 export class PrimeNgModule { }
